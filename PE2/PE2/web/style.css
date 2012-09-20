@@ -1,0 +1,56 @@
+ 
+/**
+*
+* @authors Anders Al-saffar, René Andreasen, Farukh Akhtar.
+*/
+
+
+body { 
+
+    font-family:'Trebuchet MS', Arial, Helvetica, sans-serif;
+    color: #ffffff;
+    background-color:#3366CC;
+
+
+}
+
+#header {
+    width:1000px;
+    height:50px;
+    margin:0 auto;
+    padding:0;
+
+
+}
+
+#header h1 {
+    text-align:center;
+
+}
+#car{
+    width: 400px;
+    height: 300px;
+    margin:0 auto;
+}
+#loginLink{
+    text-align:center
+
+}
+
+
+#text {
+    text-align:center
+}
+
+
+a:link {color:#000066; text-decoration: none;font-weight: bold}
+a:visited {color:#000066; text-decoration: none; font-weight: bold}  
+a:hover {color:#ffffff; text-decoration: underline; font-weight: bold}  
+a:active {color:#000066; text-decoration: none; font-weight: bold}  
+
+
+.info{
+    text-align: center;
+
+
+}
